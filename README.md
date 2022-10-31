@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @anuragts
+- 👋 Hi, I’m @anuragtsx
 - 👀 I’m interested in dev
 - 🌱 I’m currently learning typeescript
 - 💞️ I’m looking to collaborate on web projrct
