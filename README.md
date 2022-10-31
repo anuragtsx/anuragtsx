@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @anuragtsx
 - 👀 I’m interested in dev
 - 🌱 I’m currently learning typescript
-- 💞️ I’m looking to collaborate on web projrct
+- 💞️ I’m looking to collaborate on web project
 - 📫 How to reach me github
 
 <!---
