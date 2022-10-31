@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @anuragtsx
 - 👀 I’m interested in dev
-- 🌱 I’m currently learning typeescript
+- 🌱 I’m currently learning typescript
 - 💞️ I’m looking to collaborate on web projrct
 - 📫 How to reach me github
 
